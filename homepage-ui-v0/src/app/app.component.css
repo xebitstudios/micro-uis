@@ -1,0 +1,81 @@
+h1 strong {
+    font-weight: 800;
+}
+h1 em {
+    font-weight: 300;
+}
+.myhdr {
+    color:white;
+    background-color:black;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    padding-left: 20px;
+}
+.uplist ul li {
+    display:flex;
+    width:90%;
+    padding:10px 5px 10px 10px;
+    list-style-type:none;
+}
+.cevnt {
+    font-weight:800;
+    margin-left:10px;
+}
+.redbox {
+    padding: 5px;
+    margin-bottom: 10px;
+    text-align: center;
+    color: white;
+    font-weight: 600;
+    background-color: red;
+}
+.greybox {
+    height: 30px;
+    width: 40px;
+    padding: 10px 5px 0px 5px;
+    background-color:#ccc;    
+    font-weight: 600;
+    text-align: center;
+    margin-top: -10px;
+}
+.pbox {
+    width:100px;
+    margin-left:5px;
+    border:1px solid #ccc;
+    padding-left:10px;
+    padding-bottom:10px;
+    list-style-type:none;
+    border-radius: 10px;
+}
+
+.mglft10 {
+    margin-left: 10px;
+}
+.corg {
+    color:#F39C12;
+    max-width:400px;
+}
+.cblu {
+    color:#5DADE2;
+    max-width:400px;
+}
+.lblu {
+    background-color: #85C1E9;
+    color: white;
+}
+.dblu {
+    background-color: #1A5276;
+    color: white;
+}
+.yllw {
+    background-color: #F1C40F;
+    color: white;
+}
+.ornge {
+    background-color: #D68910;
+    color: white;
+}
+.gren {
+    background-color: #229954;
+    color: white;
+}
